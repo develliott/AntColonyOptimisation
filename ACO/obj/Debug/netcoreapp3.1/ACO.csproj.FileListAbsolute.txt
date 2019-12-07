@@ -1,0 +1,11 @@
+F:\Projects\.Net\MiPlayground\ACO\ACO\obj\Debug\netcoreapp3.1\ACO.csprojAssemblyReference.cache
+F:\Projects\.Net\MiPlayground\ACO\ACO\obj\Debug\netcoreapp3.1\ACO.AssemblyInfoInputs.cache
+F:\Projects\.Net\MiPlayground\ACO\ACO\obj\Debug\netcoreapp3.1\ACO.AssemblyInfo.cs
+F:\Projects\.Net\MiPlayground\ACO\ACO\bin\Debug\netcoreapp3.1\ACO.exe
+F:\Projects\.Net\MiPlayground\ACO\ACO\bin\Debug\netcoreapp3.1\ACO.deps.json
+F:\Projects\.Net\MiPlayground\ACO\ACO\bin\Debug\netcoreapp3.1\ACO.runtimeconfig.json
+F:\Projects\.Net\MiPlayground\ACO\ACO\bin\Debug\netcoreapp3.1\ACO.runtimeconfig.dev.json
+F:\Projects\.Net\MiPlayground\ACO\ACO\bin\Debug\netcoreapp3.1\ACO.dll
+F:\Projects\.Net\MiPlayground\ACO\ACO\bin\Debug\netcoreapp3.1\ACO.pdb
+F:\Projects\.Net\MiPlayground\ACO\ACO\obj\Debug\netcoreapp3.1\ACO.dll
+F:\Projects\.Net\MiPlayground\ACO\ACO\obj\Debug\netcoreapp3.1\ACO.pdb
