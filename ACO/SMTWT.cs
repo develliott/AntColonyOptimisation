@@ -37,7 +37,7 @@ namespace ACO
 
                 foreach (Ant ant in _allAnts)
                 {
-                    ant.PerformAllJobs();
+                    ant.TravelAllNodes();
                 }
                 
                 // TODO: Deposit pheromone 

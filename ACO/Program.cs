@@ -1,4 +1,5 @@
 ﻿using System;
+using ACO.Attempt2;
 
 namespace ACO
 {
@@ -10,7 +11,8 @@ namespace ACO
         {
             Console.WriteLine("Hello World!");
             
-            JobGraph jobGraph = new JobGraph();
+            Algorithm algorithm = new Algorithm();
+            algorithm.Execute(10, 2.5f, 0.1f, 0.9f);
 
         }
     }

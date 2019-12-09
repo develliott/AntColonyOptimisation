@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace ACO
+namespace ACO.Attempt2
 {
     public class JobGraph
     {

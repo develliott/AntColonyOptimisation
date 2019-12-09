@@ -7,6 +7,12 @@
       <e p="ACO" t="IncludeRecursive">
         <e p="ACO.csproj" t="IncludeRecursive" />
         <e p="Ant.cs" t="Include" />
+        <e p="Attempt2" t="Include">
+          <e p="Algorithm.cs" t="Include" />
+          <e p="Ant.cs" t="Include" />
+          <e p="Job.cs" t="Include" />
+          <e p="JobGraph.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Job.cs" t="Include" />
         <e p="JobGraph.cs" t="Include" />
